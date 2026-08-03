@@ -1,7 +1,7 @@
 # UART (Universal Asynchronous Receiver Transmitter)
 
 ## Overview
-This project implements a basic UART Transmitter and Receiver using Verilog HDL. UART is a serial communication protocol widely used in embedded systems, microcontrollers, FPGAs, and ASICs.
+This project implements a basic UART Transmitter and Receiver using Verilog HDL. UART is a serial communication protocol 
 
 ## Objectives
 - Design a UART Transmitter (TX)
@@ -37,10 +37,3 @@ Start Bit | Data Bits (8-bit) | Stop Bit
 - EDA Playground
 - Icarus Verilog
 - GTKWave / EPWave
-
-## Simulation
-
-1. Compile all Verilog files.
-2. Run the simulation.
-3. Observe the waveform.
-4. Verify that transmitted data equals received data.
