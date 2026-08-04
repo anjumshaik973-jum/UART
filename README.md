@@ -35,5 +35,4 @@ Start Bit | Data Bits (8-bit) | Stop Bit
 
 - Verilog HDL
 - EDA Playground
-- Icarus Verilog
 - GTKWave / EPWave
